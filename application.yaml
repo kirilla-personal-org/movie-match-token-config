@@ -2,6 +2,7 @@
 #resources with file names in application* (application.properties, application.yml, application-*.properties, and so on) are shared between all client applications. 
 #You can use resources with these file names to configure global defaults and have them be overridden by application-specific files as necessary.
 
-prop-1 = from common properties - default
-prop-2 = from common properties - default
-tokens = Baeldung,dot,com,new,extra
+kinopoisk:
+  tokens: 
+    - CNRYSY9-B5Z4KH9-G5GXMT7-CEFFSXJ
+    - A7B8BYM-WCP4S82-NK1P6NE-D4CEJB5
